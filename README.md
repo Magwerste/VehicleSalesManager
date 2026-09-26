@@ -2,7 +2,7 @@
 
 A console application for managing vehicle stock across a dealership's branches: adding vehicles, viewing and searching stock, and processing purchase offers.
 
-Originally written as a university coursework project while learning Python and object-oriented programming; since restructured into a proper multi-module package with clearer separation of concerns.
+Originally written as a university coursework project while learning Python in 1st year and object-oriented programming; since restructured into a proper multi-module package with clearer separation of concerns.
 
 ## Features
 
